@@ -1,6 +1,6 @@
 # LiDAR-based object detection, tracking and prediction
 
-This project aims at detecting, tracking and predicting movement of objects, especially pedestrian, using LiDAR data.
+This project aims at detecting, tracking and predicting movement of objects, especially pedestrian, using LiDAR data. Please learn more about it in the [report](Report_LiDAR_project.pdf).
 
 ## Installation
 
